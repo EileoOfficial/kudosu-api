@@ -1,7 +1,8 @@
 # kudosu-api
 Hey!
 
-Basically this is a simple GetDataModel roblox exploit API. You can add libs / edit the way how definitions work.
+Basically this is a simple GetDataModel roblox exploit API. You can add libs / edit the way how definitions work. 
+This was fully made by Amoy (a Moonware developer) check out his github : "am0y".
 
 The DLL injector is coming soon.
 https://xcheats.com
