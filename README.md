@@ -1,4 +1,4 @@
-# kudosu-api
+# Kudosu GDM Exploit
 Hey!
 
 Basically this is a simple GetDataModel roblox exploit API. You can add libs / edit the way how definitions work. 
